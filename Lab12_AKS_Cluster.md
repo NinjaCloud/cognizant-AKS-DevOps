@@ -41,7 +41,7 @@ This lab will guide you through the process of creating an AKS cluster using the
 
 #### **Step 4: Configure Node Settings**
 1. **Node Size**:
-   - Choose a virtual machine size for your nodes (e.g., `Standard_B2s` for basic workloads).
+   - Choose a virtual machine size for your nodes (e.g., `D2s_V3` for basic workloads).
 2. **Node Count**:
    - Set the initial number of nodes (e.g., `3` for a 3-node cluster).
 3. Leave **Enable Virtual Nodes** unchecked unless you need to scale quickly with Azure Container Instances.
