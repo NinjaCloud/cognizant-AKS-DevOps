@@ -1,4 +1,4 @@
-# Lab 13: Horizontal Pod Autoscaler (HPA)
+# Lab 17: Horizontal Pod Autoscaler (HPA)
 
 ## Objective
 In this lab, you will learn how to configure and test **Horizontal Pod Autoscaler (HPA)** in Kubernetes.  
