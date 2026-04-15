@@ -31,18 +31,6 @@ AKS automatically provides a default StorageClass (usually Azure Disk).
 kubectl get storageclass
 ```
 
-👉 Output will look like:
-
-```id="y3gk4z"
-NAME                 PROVISIONER                DEFAULT
-managed-csi (default) disk.csi.azure.com        Yes
-```
-
-✔️ Important:
-
-* Default StorageClass = **automatic disk provisioning**
-
----
 
 # 🧱 Step 2: Create a PersistentVolumeClaim (PVC)
 
