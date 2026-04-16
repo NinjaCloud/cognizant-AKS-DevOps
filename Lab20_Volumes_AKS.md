@@ -135,6 +135,7 @@ exit
 # 🌐 Step 7: Expose Pod
 
 ```bash
+kubectl label pod volume-pod app=frontend
 kubectl expose pod volume-pod --type=NodePort --port=80
 kubectl get svc
 ```
