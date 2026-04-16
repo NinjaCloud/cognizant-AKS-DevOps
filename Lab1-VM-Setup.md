@@ -1,4 +1,4 @@
-# Lab: Creating a Virtual Machine on Azure Cloud with Ubuntu 22.04 OS and Standard B2s Machine Type
+# Lab01: Creating a Virtual Machine on Azure Cloud with Ubuntu 22.04 OS and Standard B2s Machine Type
 
 This lab provides a step-by-step guide to create an Azure virtual machine (VM) with Ubuntu 22.04 OS using the Standard B2s machine type. Additionally, it includes creating a new resource group named `docker`.
 
